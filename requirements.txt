@@ -1,0 +1,14 @@
+langchain
+openai
+numpy
+scikit-learn
+umap-learn
+tiktoken
+pandas
+matplotlib
+path
+faiss-cpu
+hdbscan
+sentence_transformers
+pydantic
+opendatasets

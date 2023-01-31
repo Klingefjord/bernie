@@ -1,0 +1,7 @@
+nyt_archive/
+.venv/
+.vscode/
+.DS_Store
+*.index
+*.pkl
+*.zip
