@@ -1,7 +1,3 @@
-# Talk to the city experiments
+# This is an experiment in clustering opinions using embeddings, and feeding these clusters to LLMs so you can converse with a political stance.
 
-Experiments for the talk to the city project.
-
-Dataset can be found here: https://www.kaggle.com/datasets/mtaboada/sfu-opinion-and-comments-corpus-socc
-
-If you don't have an OpenAI API key in your path you have to supply one manually.
+Dataset can be found here: https://www.kaggle.com/datasets/benjaminawd/new-york-times-articles-comments-2020
